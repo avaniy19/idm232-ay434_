@@ -1,0 +1,32 @@
+:root {
+    --dark: #11141C;
+    --navy: #1A1C25;
+    --offwhite: #F6F6F1;
+    --pink: #EE828F;
+    --periwinkle: #6473A0;
+  }
+
+  body {
+      background-color: var(--navy);
+  }
+
+  h1 {
+      color: var(--pink);
+      letter-spacing: .2rem;
+      font-family: 'Montserrat Alternates', sans-serif;
+  }
+
+  h3 {
+      color: var(--offwhite);
+      letter-spacing: .1rem;
+      font-family: 'Raleway', sans-serif;
+  }
+
+  h4 {
+    color: var(--offwhite);
+    letter-spacing: .1rem;
+    font-family: 'Raleway', sans-serif;
+  }
+
+ 
+
