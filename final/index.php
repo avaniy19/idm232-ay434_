@@ -72,9 +72,9 @@
 
     <div class="recipe__container">
         <div class="div1">
-            <img class="recipe__images" src="components/images/classiccake1.png">
-            <img class="recipe__images" src="components/images/classiccake2.png">
-            <img class="recipe__images" src="components/images/classiccake3.png">
+            <img class="recipe__images" src="dist/images/classiccake1.png">
+            <img class="recipe__images" src="dist/images/classiccake2.png">
+            <img class="recipe__images" src="dist/images/classiccake3.png">
 
         </div>
         <div class="div2">
